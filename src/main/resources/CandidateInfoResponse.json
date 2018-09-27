@@ -1,0 +1,9 @@
+ {
+    "personId" : "12345",
+    "associateId" : "123456789",
+    "statusComment" : "FA",
+    "statCommDOvrd" : "FAMILY",
+    "beginDate" : "1995-09-11",
+    "expectedReturnDate" : "1995-09-12",
+    "isCurrentlyOnLeave" : "Y"
+  }
